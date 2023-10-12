@@ -1,5 +1,4 @@
 
-![Logo](https://raw.githubusercontent.com/SchoolIzBoring/Unblocked-Websites/main/logo.png)
 
 
 # Unblocked Websites
